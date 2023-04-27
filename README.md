@@ -1,2 +1,2 @@
 # C-Sharp-List-Binary-Search-Tree
-Modified Binary Search Tree to accept string data.
+Modified Binary Search Tree that accepts string data.
