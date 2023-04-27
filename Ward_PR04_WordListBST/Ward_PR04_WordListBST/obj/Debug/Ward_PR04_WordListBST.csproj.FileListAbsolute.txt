@@ -1,0 +1,10 @@
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\bin\Debug\Ward_PR04_WordListBST.exe.config
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\bin\Debug\Ward_PR04_WordListBST.exe
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\bin\Debug\Ward_PR04_WordListBST.pdb
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.csprojAssemblyReference.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.Properties.Resources.resources
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.WordListBST.resources
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.csproj.GenerateResource.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.csproj.CoreCompileInputs.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.exe
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_WordListBST\Ward_PR04_WordListBST\obj\Debug\Ward_PR04_WordListBST.pdb
